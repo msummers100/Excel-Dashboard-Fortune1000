@@ -1,0 +1,1 @@
+This was a personal project. An exercise to set up a dashboard with focus on functionality. Data Set was from a public source. By no means should it be used to base any actions or transactions on. Source data was not verified for accuracy. Basically used as a dummy set for practice of dashboard functionality.
